@@ -1,5 +1,5 @@
 # Pixel-Art-Maker
-  <h3 align="center">Front-End Development Track</h3>
+  <h3 align="center">Udacity Front-End Development Track</h3>
   <h3 align="center">About</h3>
 
   <p align="center">
